@@ -10,8 +10,8 @@
 - [Contributing](#contributing)
 - [Flowchart](#flowchart)
 - [Video](#video)
-- [License](#license)
 
+- 
 ## Overview
 The Weather Application is a user-friendly desktop application built using the Windows Forms framework in C#. It provides real-time weather information and 30-day weather forecasts for cities worldwide. Users can select a city from a dropdown list, view current weather conditions, and navigate to a detailed forecast page. The application fetches data from the OpenWeather API and displays it in an intuitive interface.
 
@@ -136,7 +136,4 @@ View a demonstration of the Weather Application, showcasing city selection, curr
 
 Download Video From Drive: 
 https://drive.google.com/file/d/18ggFELNaVi3TBxy5cp_-5U5nNZDOpvB6/view?usp=drive_link
- 
 
-## License
-This project is licensed under the MIT License.ADME (3).markdown…]()
